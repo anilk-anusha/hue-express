@@ -38,7 +38,7 @@ function App() {
     <>
       <section className='container'>
         <h2>Hue Express</h2>
-        {errorShow && <InvalidBox msg={errorMsg} />}
+        <p>Discover endless colors at your fingertips: Try Hue Express, your ultimate color generator! 🎨</p>
         <form>
           <input
             type="text"
@@ -48,11 +48,11 @@ function App() {
             // checking state value for error - if true then classname will be error
             className={`${error ? 'error' : null}`}
           />
-          
         </form>
         <button className='btn' onClick={handleSubmit}>
           Generate
         </button> 
+        {errorShow && <InvalidBox msg={errorMsg} />}
       </section>
       <section className='colors'>
         {/* Object spread operator to get all the properties */}

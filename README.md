@@ -5,3 +5,6 @@
 
 ## Edge cases 
 - #0000FF 
+
+Future Improvement: 
+Show Clipboard icon on hover 
