@@ -144,7 +144,7 @@ Color Generator
   text-align: center;
   display: flex;
   align-items: center;
-  height: 230px;
+  height: auto;
   padding-left: 2rem;
   flex-direction: column;
   justify-content:flex-start;
