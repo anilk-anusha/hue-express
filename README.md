@@ -38,6 +38,11 @@ https://hue-express.netlify.app/
 - Values JS
 
 ## Screenshots
+<img width="950" alt="image" src="https://github.com/anilk-anusha/hue-express/assets/130001836/03c6d306-1c31-470a-b347-191850065108">
+<img width="949" alt="image" src="https://github.com/anilk-anusha/hue-express/assets/130001836/5db02d63-d19a-4124-9361-0cfb83f4a2b0">
+<img width="947" alt="image" src="https://github.com/anilk-anusha/hue-express/assets/130001836/00f132b5-7386-4bff-8dae-5a03fd3f639c">
+<img width="947" alt="image" src="https://github.com/anilk-anusha/hue-express/assets/130001836/ade01363-7ab6-4a9a-955a-35df1666c283">
+<img width="947" alt="image" src="https://github.com/anilk-anusha/hue-express/assets/130001836/56c7e1e2-4ba8-45e3-8b4b-61580e68129e">
 
 
 ## Setup
