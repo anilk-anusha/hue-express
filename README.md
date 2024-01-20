@@ -73,7 +73,7 @@ This will open your React app in a new browser window, and you can start develop
 
 ## Status
 
-Project Status: Completed
+Project Status: Completed, constantly evolving. 
 
 ## References
 - https://github.com/john-smilga/react-projects?tab=readme-ov-file
