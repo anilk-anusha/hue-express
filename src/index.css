@@ -144,7 +144,7 @@ Color Generator
   text-align: center;
   display: flex;
   align-items: center;
-  height: 210px;
+  height: 230px;
   padding-left: 2rem;
   flex-direction: column;
   justify-content:flex-start;
@@ -160,6 +160,16 @@ input {
   font-size: 1.2rem;
   margin-bottom: 10px;
 }
+
+.dropdown{
+  border-color: transparent;
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem;
+  margin-left: 30px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
 .btn {
   background: var(--clr-primary-5);
   padding: 0.5rem 1rem;
@@ -243,4 +253,11 @@ input.error {
 .notify-danger {
   color: #721c24;
   background: #f8d7da;
+}
+
+
+.footer{
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--clr-black);
 }
