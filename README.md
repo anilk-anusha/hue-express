@@ -22,7 +22,7 @@ This project is a part of the Code 15 React Projects - Complete Course from free
 
 ## Website
 
-Hue Express Website 🎉🎉
+**🎉 Hue Express Website 🎉**
 
 https://hue-express.netlify.app/
 
